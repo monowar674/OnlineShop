@@ -50,14 +50,14 @@ let data = [
         name:'খাঁটি ঘি',
         price:'১৩৫০৳',
         wight:'১ কেজি',
-        img:'./public/photos/images/ghee4.jpg'
+        img:'./public/photos/images/ghee2.jpg'
     },
     {
         product:8,
         name:'খাঁটি ঘি',
         price:'৭০০৳',
         wight:'৫০০ গ্রাম',
-        img:'./public/photos/images/ghee3.jpg'
+        img:'./public/photos/images/ghee.jpg'
     },
     {
         product:9,
