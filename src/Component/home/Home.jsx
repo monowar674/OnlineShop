@@ -117,7 +117,7 @@ const Home = () => {
                 </div>
                 <div className="my-20  relative ">
                     {/* <video  className='w-full  rounded-2xl' autoPlay controls  src={gheeVideo}></video> */}
-                    <video class="h-full w-full rounded-lg" autoPlay controls>
+                    <video className="h-full w-full rounded-lg" autoPlay controls>
                         <source
                             src={gheeVideo}
                             type="video/mp4"
