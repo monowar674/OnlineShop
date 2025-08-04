@@ -1,0 +1,9 @@
+.headding{
+    color: #0be628 !important;
+    font-weight: 600;
+    font-size: 24px;
+}
+.pra{color: black;font-size: 16px; font-weight: 500;}
+.before-p{color: rgb(253, 0, 0);font-size: 16px; font-weight: 400; text-decoration: line-through;}
+.btn{transition: 0.3s ease-in-out;}
+.btn:hover{background-color: #0be628 !important;}
